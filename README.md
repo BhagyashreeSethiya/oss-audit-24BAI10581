@@ -1,7 +1,10 @@
 # Python OSS Audit CLI Project
-# Name: Bhagyashree Sethiya
-# Registration No. : 24BAI10581
-# Choosen Software: Python
+# Name:
+Bhagyashree Sethiya
+# Registration No. :
+24BAI10581
+# Choosen Software:
+Python
 
 ##  Description
 This project is a command-line based system that demonstrates the use of Linux shell scripting in the context of Python and open-source software. It includes multiple scripts that perform system analysis, file operations, user interaction, process monitoring, and automation tasks.
