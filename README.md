@@ -8,7 +8,8 @@
 
 
 ##  Description
-This project is a command-line based system that demonstrates the use of Linux shell scripting in the context of Python and open-source software. It includes multiple scripts that perform system analysis, file operations, user interaction, process monitoring, and automation tasks.
+This project is a terminal-based application showcasing how Python can work with Linux shell scripting in open-source environments. It features scripts for analyzing system information, managing files, interacting with users, monitoring processes, and automating tasks.
+
 
 ---
 
