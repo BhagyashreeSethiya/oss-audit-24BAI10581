@@ -1,7 +1,7 @@
 # Python OSS Audit CLI Project
-## Name:
+### Name:
 Bhagyashree Sethiya
-## Registration No. :
+### Registration No. :
 24BAI10581
 ## Choosen Software:
 Python
